@@ -1,7 +1,12 @@
-{
-  "project1": {
-    "projectName": "Test Project",
-    "projectVersion": "1.0.0",
-    "projectUrl": ""
+[
+  {
+    "name": "ProjektA",
+    "version": "1.0",
+    "url": "https://example.com/projektA.zip"
+  },
+  {
+    "name": "ProjektB",
+    "version": "2.1",
+    "url": "https://example.com/projektB.zip"
   }
-}
+]
