@@ -1,0 +1,5 @@
+[Test Update 0.0.0]
+Major:
+  - Initial release.
+
+[End of update log]
